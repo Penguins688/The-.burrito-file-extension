@@ -9,6 +9,7 @@ Image Path: <your image path here>
 ```
 <br>
 <br>
+
 **To view the image, run loader.py:**<br>
 ```console
 python3 loader.py
